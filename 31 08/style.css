@@ -1,0 +1,79 @@
+body{margin: 0%;
+background-color: rgb(166, 180, 155);
+margin: 0}
+
+.hero{ background-image: url(animes.jpg);
+height:400px;
+background-size: cover;
+backgro right center;
+padding-top: 1PX;}
+
+.hero-content{ margin: 50px auto 0;
+width: 80%;
+text-align: center;color: rgb(42, 216, 37); text-shadow: 8px 9px 6px rgb(2, 41, 4);
+}
+
+.hero-content h1{font-size: 60px;}
+
+.hero-content p{font-size: 30px;}
+
+
+.coiso{background-color: rgba(0, 17, 3, 0.527);
+font-size: 18px;
+display: inline-block;
+padding: 10px;
+border-bottom: 2px solid;}
+
+
+.hero nav ul{ margin: 20px 8% 0 0;
+text-align: right;}
+
+.hero nav li{display: inline-block;
+list-style-type: none;
+border: 1px solid rgb(4, 0, 250);
+margin-left: 16px;}
+
+.hero nav a{ background-color: rgba(39, 42, 252, 0.205);
+padding: 16px;
+text-transform: uppercase;
+text-decoration: none;
+font-size: 12px;
+letter-spacing: 2px;}
+
+.hero nav a:hover{background-color:rgba(40, 42, 189, 0.356);}
+
+main{width: 90%;
+margin: auto;
+max-width: 860px;}
+
+section{padding-top: 32px;}
+
+article{ background-color: rgb(255, 255, 255);
+margin-bottom: 32px;
+padding: 15px;
+margin-top: 20px;}
+
+article h2{border-bottom: 2px solid rgba(56, 167, 5, 0.678);
+background-color: rgba(132, 138, 108, 0.288);
+border-radius: 30px;
+padding: 10px;
+margin-top: 0;}
+
+.btn{ background-color: #cdc7c3;
+display: block;
+padding: 12px 16px 15px;
+border-radius: 7px;
+margin-left: auto;
+width: fit-content;}
+
+article p{font-size: 20px;}
+
+ .rodape{
+   color: white;
+   background-color: rgb(95, 104, 89);
+   text-align: center;
+   padding: 30px;
+   font-size: 25px;
+   text-shadow: 2px 2px 2px black;
+   letter-spacing: 2px;
+ }

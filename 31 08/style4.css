@@ -1,0 +1,78 @@
+body{margin: 0%;
+background-color: rgb(212, 54, 54);
+margin: 0}
+
+.hero{ background-image: url(ONP.webp);
+height:400px;
+background-size: cover;
+background-position: right center;
+padding-top: 1PX;}
+
+.hero-content{ margin: 50px auto 0;
+width: 80%;
+text-align: center;color: rgb(255, 57, 123); text-shadow: 8px 9px 6px rgb(17, 2, 41);
+}
+
+.hero-content h1{font-size: 60px;
+background-color: rgba(0, 17, 3, 0.527);
+font-size: 50px;
+display: inline-block;
+padding: 10px;
+border-bottom: 2px solid;}
+
+.hero-content p{font-size: 30px;}
+
+.hero nav ul{ margin: 20px 8% 0 0;
+text-align: right;}
+
+.hero nav a{ background-color: #d4ca38e7;
+    border-bottom: 4px solid rgb(194, 11, 11);
+padding: 16px;
+text-transform: uppercase;
+text-decoration: none;
+font-size: 12px;
+letter-spacing: 2px;}
+
+.hero nav a:hover{background-color:rgba(156, 147, 17, 0.906);}
+
+main{width: 90%;
+margin: auto;
+max-width: 860px;}
+
+section{padding-top: 32px;}
+
+article{ background-color: rgb(255, 255, 255);
+margin-bottom: 32px;
+padding: 15px;
+margin-top: 20px;}
+
+article h2{border-bottom: 3px solid rgba(35, 110, 250, 0.678);
+background-color: rgba(248, 245, 36, 0.418);
+border-radius: 30px;
+padding: 10px;
+margin-top: 0;}
+
+.btn{ background-color: #cdc7c3;
+display: block;
+padding: 12px 16px 15px;
+border-radius: 7px;
+margin-left: auto;
+width: fit-content;}
+
+article p{font-size: 20px;}
+
+li{font-size: 19px;}
+
+h3{ font-size: 27px; text-align: center;}
+
+.foto1{height: auto;
+width: 250px;
+float: auto;}
+
+.foto2{height: auto;
+width: 300px;
+float: auto;}
+
+.gh{float: inline-start;
+font-size: 40px;}
+.jh{font-size: 20px; text-align: center;}
